@@ -1,0 +1,25 @@
+{
+  "title": "Tattooed Love (2017)",
+  "description": "Deride küçük kesikler yapıp o bölgeye mürekkep uygularsanız... Bir dövmeniz olur - iyileştikten sonra bile yok olmayacak kalıcı bir iz... Aşk da benzer değil midir? ",
+  "artist": "Jeong Seok Chan",
+  "author": "Jeong Seok Chan",
+  "cover": "https://xcdn-000.animemark.com/acg_covers/W600/e4/55/e4559e6d80688968bfd5abf86707ba23e5529ef6_103365_600_330.jpg",
+  "chapters": {
+    "1": {
+      "title": "Bölüm",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/5Z3A2ZP/"
+      },
+      "last_updated": "1624012375"
+    },
+    "2": {
+      "title": "Bölüm (Son)",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/tqLzSyo/"
+      },
+      "last_updated": "1624012375"
+    }
+  }
+}
